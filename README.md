@@ -2,5 +2,9 @@
 
 Repositiory for my learning journey with Dicoding
 
-10 Februari 2021
-- Mempelajari Basic Git and Github Class around 56%
+14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
